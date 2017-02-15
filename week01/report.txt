@@ -1,0 +1,2 @@
+Tasks from week01 teach me how to clone,add file,make folder,remove file/folder,push,pull,and etc
+
