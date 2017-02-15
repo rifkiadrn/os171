@@ -20,3 +20,4 @@ drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:55 week09
 drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:55 week10
 drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:56 xtra
 /home/fasilkom/mahasiswa/r/rifki.adrian/os171/week01
+Today is 15 Feb 2017 at 20:32:06
