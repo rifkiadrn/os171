@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 rifki.adrian StafCS 4096 Feb 15 19:14 .
+drwx--x--x  4 rifki.adrian StafCS 4096 Feb 15 19:11 ..
+drwxr-xr-x  8 rifki.adrian StafCS 4096 Feb 15 19:13 .git
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:56 key
+-rw-r--r--  1 rifki.adrian StafCS    0 Feb 15 19:14 lab01.txt
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:56 log
+-rw-r--r--  1 rifki.adrian StafCS    7 Feb 15 18:45 README.md
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 19:02 sandbox
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 19:11 week00
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:48 week01
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:48 week02
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:48 week03
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:48 week04
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:48 week05
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:54 week06
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:55 week07
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:55 week08
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:55 week09
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:55 week10
+drwxr-xr-x  2 rifki.adrian StafCS 4096 Feb 15 18:56 xtra
+/home/fasilkom/mahasiswa/r/rifki.adrian/os171/week01
