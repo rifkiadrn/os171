@@ -1,0 +1,10 @@
+w01-170214-13-LR-About: HKI,Intro to CLI, From: Lecturer
+w01-170214-13-LR-About: HKI,Intro to CLI, From: Lecturer
+w01-170214-14-LR-About: HKI,Intro to CLI, From: Lecturer
+w01-170215-18-PS-About: doing lab01 task
+w01-170215-19-PS-About: doing lab01 task
+w01-170215-20-LR-About: How to make a bootable flashdisk and install ubuntu dualboot
+w01-170215-20-LR-About: How to make a bootable flashdisk and install ubuntu dualboot
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-14-LR-About: Scripting, From: Lecturer
