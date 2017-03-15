@@ -1,0 +1,14 @@
+w04-170307-13-LR-About: I/O Process From: Lecturer
+w04-170307-13-LR-About: I/O Process From: Lecturer
+w04-170307-14-LR-About: I/O Process From: lecturer 
+w04-170307-14-LR-About: I/O Process From: lecturer
+w04-170308-18-PS-About: week04 lab tasks
+w04-170303-18-PS-About: week04 lab tasks
+w04-170304-19-PS-About: week04 lab tasks
+w04-170304-19-PS-About: week04 lab tasks
+w04-170304-20-PS-About: week04 lab tasks
+w04-170308-13-LR-About: Pointer From: Lecturer
+w04-170308-13-LR-About: Pointer From: Lecturer
+w04-170308-14-LR-About: Pointer From: lecturer 
+w04-170308-14-LR-About: Pointer From: lecturer
+w04-170310-23-PS-About: week04 lab tasks
